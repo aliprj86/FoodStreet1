@@ -1,0 +1,283 @@
+{
+  "header": [
+    {
+      "id": 1,
+      "nav": "home",
+      "navid": "#home",
+      "class": "active"
+    },
+    {
+      "id": 2,
+      "nav": "dishes",
+      "navid": "#dishes"
+    },
+    {
+      "id": 3,
+      "nav": "about",
+      "navid": "#about"
+    },
+    {
+      "id": 4,
+      "nav": "menu",
+      "navid": "#menu"
+    },
+    {
+      "id": 5,
+      "nav": "review",
+      "navid": "#review"
+    },
+    {
+      "id": 6,
+      "nav": "order",
+      "navid": "#order"
+    }
+  ],
+
+  "Slider1": [
+    {
+      "id": 1,
+      "span": "our special dish",
+      "title": "spicy noodles",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quisquam error ea!",
+      "btn": "order now",
+      "image": "https://github.com/aliprj86/1png/blob/main/1.png?raw=true"
+    },
+    {
+      "id": 2,
+      "span": "our special dish",
+      "title": "fried chicken",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quisquam error ea!",
+      "btn": "order now",
+      "image": "https://github.com/aliprj86/1png/blob/main/2.png?raw=true"
+    },
+    {
+      "id": 3,
+      "span": "our special dish",
+      "title": "hot pizza",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quisquam error ea!",
+      "btn": "order now",
+      "image": "https://github.com/aliprj86/1png/blob/main/3.png?raw=true"
+    }
+  ],
+  "dishes": [
+    {
+      "id": 1,
+      "image": "https://github.com/aliprj86/1png/blob/main/4.png?raw=true",
+      "title": "Tasty Food",
+      "btn": " non-existent",
+      "price": "$15.99"
+    },
+
+    {
+      "id": 2,
+      "image": "https://github.com/aliprj86/1png/blob/main/5.png?raw=true",
+      "title": "Tasty Food",
+      "btn": " non-existent",
+      "price": "$15.99"
+    },
+    {
+      "id": 3,
+      "image": "https://github.com/aliprj86/1png/blob/main/6.png?raw=true",
+      "title": "Tasty Food",
+      "btn": " non-existent",
+      "price": "$15.99"
+    },
+    {
+      "id": 4,
+      "image": "https://github.com/aliprj86/1png/blob/main/7.png?raw=true",
+      "title": "Tasty Food",
+      "btn": " non-existent",
+      "price": "$15.99"
+    },
+    {
+      "id": 5,
+      "image": "https://github.com/aliprj86/1png/blob/main/8.png?raw=true",
+      "title": "Tasty Food",
+      "btn": " non-existent",
+      "price": "$15.99"
+    },
+    {
+      "id": 6,
+      "image": "https://github.com/aliprj86/1png/blob/main/9.png?raw=true",
+      "title": "Tasty Food",
+      "btn": " non-existent",
+      "price": "$15.99"
+    }
+  ],
+
+  "aboutslider": [
+    {
+      "id": 1,
+      "image": "https://github.com/aliprj86/1png/blob/main/1.png?raw=true"
+    },
+    {
+      "id": 2,
+      "image": "https://github.com/aliprj86/1png/blob/main/2.png?raw=true"
+    },
+    {
+      "id": 3,
+      "image": "https://github.com/aliprj86/1png/blob/main/3.png?raw=true"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "image": "https://github.com/aliprj86/1png/blob/main/101.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": 2,
+      "image": "https://github.com/aliprj86/1png/blob/main/102.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": 3,
+      "image": "https://github.com/aliprj86/1png/blob/main/103.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": 4,
+      "image": "https://github.com/aliprj86/1png/blob/main/104.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": 5,
+      "image": "https://github.com/aliprj86/1png/blob/main/105.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": 6,
+      "image": "https://github.com/aliprj86/1png/blob/main/102.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": 7,
+      "image": "https://github.com/aliprj86/1png/blob/main/103.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": 8,
+      "image": "https://github.com/aliprj86/1png/blob/main/101.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": 9,
+      "image": "https://github.com/aliprj86/1png/blob/main/109.jpg?raw=true",
+      "title": "Delicious food 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, animi!",
+      "price": "$13.45",
+      "btn": "Add to Cart"
+    }
+  ],
+
+  "review": [
+    {
+      "id": 1,
+      "image": "https://github.com/aliprj86/1png/blob/main/aliprj.jpg?raw=true",
+      "title": "aliprj",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, eum ab impedit, perspiciatis laborum quasi sint natus itaque distinctio veritatis consequatur est? Consectetur, numquam provident modi sint totam velit tempore?"
+    },
+    {
+      "id": 2,
+      "image": "https://github.com/aliprj86/1png/blob/main/aliprj.jpg?raw=true",
+      "title": "aliprj",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, eum ab impedit, perspiciatis laborum quasi sint natus itaque distinctio veritatis consequatur est? Consectetur, numquam provident modi sint totam velit tempore?"
+    },
+    {
+      "id": 3,
+      "image": "https://github.com/aliprj86/1png/blob/main/aliprj.jpg?raw=true",
+      "title": "aliprj",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, eum ab impedit, perspiciatis laborum quasi sint natus itaque distinctio veritatis consequatur est? Consectetur, numquam provident modi sint totam velit tempore?"
+    },
+    {
+      "id": 4,
+      "image": "https://github.com/aliprj86/1png/blob/main/aliprj.jpg?raw=true",
+      "title": "aliprj",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, eum ab impedit, perspiciatis laborum quasi sint natus itaque distinctio veritatis consequatur est? Consectetur, numquam provident modi sint totam velit tempore?"
+    },
+    {
+      "id": 5,
+      "image": "https://github.com/aliprj86/1png/blob/main/aliprj.jpg?raw=true",
+      "title": "aliprj",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, eum ab impedit, perspiciatis laborum quasi sint natus itaque distinctio veritatis consequatur est? Consectetur, numquam provident modi sint totam velit tempore?"
+    },
+    {
+      "id": 6,
+      "image": "https://github.com/aliprj86/1png/blob/main/aliprj.jpg?raw=true",
+      "title": "aliprj",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, eum ab impedit, perspiciatis laborum quasi sint natus itaque distinctio veritatis consequatur est? Consectetur, numquam provident modi sint totam velit tempore?"
+    }
+  ],
+  "footer": [
+    {
+      "id": 1,
+      "title": "locations",
+      "h1": "india",
+      "h2": "japan",
+      "h3": "USA",
+      "h4": "iran",
+      "h5": "france",
+      "h6": "Italy"
+    },
+    {
+      "id": 2,
+      "title": "quick links",
+      "h1": "home",
+      "h2": "dishes",
+      "h3": "about",
+      "h4": "menu",
+      "h5": "review",
+      "h6": "order"
+    },
+    {
+      "id": 3,
+      "title": "contact info",
+      "h1": "+989123456789",
+      "h2": "+989212345678",
+      "h3": "example@gmail.com",
+      "h4": "info@example.com",
+      "h5": "tehran,iran-111111",
+      "h6": "021 1234 567"
+    },
+    {
+      "id": 4,
+      "title": "follow us",
+      "h1": "facebook",
+      "h2": "instagram",
+      "h3": "linkedin",
+      "h4": "twitter",
+      "h5": " YouTube",
+      "h6": "Telegram",
+      "h1i": "fab fa-facebook-f",
+      "h2i": "fab fa-instagram",
+      "h3i": "fab fa-linkedin-in",
+      "h4i": "fab fa-twitter",
+      "h5i": " fab fa-youtube",
+      "h6i": "fab fa-telegram"
+    }
+  ]
+}
