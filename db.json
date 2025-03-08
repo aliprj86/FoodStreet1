@@ -53,14 +53,6 @@
     {
       "id": 3,
       "span": "our special dish",
-      "title": "fried chicken",
-      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quisquam error ea!",
-      "btn": "order now",
-      "image": "https://github.com/aliprj86/1png/blob/main/2.png?raw=true"
-    },
-    {
-      "id": 4,
-      "span": "our special dish",
       "title": "hot pizza",
       "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quisquam error ea!",
       "btn": "order now",
